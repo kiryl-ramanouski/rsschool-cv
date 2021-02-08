@@ -13,6 +13,13 @@ Degree information: Graduate (master)
 
 **I get some good experience from education sites like:**
 
+1. Codewars.com:
+
+   - [my codewars profile](https://www.codewars.com/users/whitekvazar)
+
+2. Htmlacademy.ru:
+   - [my htmlacademy profile](https://htmlacademy.ru/profile/whitekvazar)
+
 I have some skills at CSS, HTML and JS. I know basics of Java, C/C++ and OOP.
 
 **My English level** is pre-intermediate. And it is intermediate in some cases for example in reading and listening. I’ve been taking private lessons since May 2019 and I watch films and TV series in English.
