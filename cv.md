@@ -1,28 +1,50 @@
 ## Kirill Romanovskii
 
-**Mobile phone number:** _+375257585175_ **Email:** _whitekvazar@gmail_ **Telegram:** _@sadSaund_
+### Contact info
 
-**My goal** is to become professional front-end developer. I wish to work in great team and develop powerful features.
-I like learning things. I always was a good student in university and I’m really good at finding and using information. I was born and live in Minsk, but I’m ready to move.
+**Mobile phone number:** _+375257585175_ **Email:** _whitekvazar@gmail_ **Telegram:** _@sadSaund_ **City** _Minsk_
 
-**I have some good dev. experience from my university:**
-Educational establishment: Belarusian State University of Informatics and Radioelectronics.
-Faculty: Faculty of Computer Systems and Networks
-Department: Electronic computing machines
-Degree information: Graduate (master)
+### Summary
 
-**I get some good experience from education sites like:**
+My goal is to become professional front-end developer with strong hard and soft skills. I wish to work in great team and develop powerful features. I like learning things. I always was a good student in university and I’m really good at finding and using information.
+I am currently open to an employer and looking for a Junior Frontend Developer position or Internship program.
 
-1. Codewars.com:
+### Education
 
-   - [my codewars profile](https://www.codewars.com/users/whitekvazar)
+Educational establishment: Belarusian State University of Informatics and Radioelectronics (BSUIR).  
+Faculty: Faculty of Computer Systems and Networks  
+Department: Electronic computing machines  
+Degree information: Graduate (Master)
 
-2. Htmlacademy.ru:
-   - [my htmlacademy profile](https://htmlacademy.ru/profile/whitekvazar)
+### Skills
 
-I have some skills at CSS, HTML and JS. I know basics of Java, C/C++ and OOP.
+- JavaScript, ES6
+- HTML5, CSS3
+- Figma
+- Git
+- Node.js
+- Java basics
+- C/C++ basics
 
-Code example:
+### Work experience
+
+1. I get good dev. experience from my university.
+
+2. Codewars.com:
+
+   - [Сodewars profile](https://www.codewars.com/users/whitekvazar)
+
+3. Htmlacademy.ru:
+
+   - [Htmlacademy profile](https://htmlacademy.ru/profile/whitekvazar)
+
+4. I worked in Visma-Planar as a Senior specialist until february 2021. I provided technical and technological advice to colleagues on softwate operation
+
+5. Github.com:
+
+   - [Github profile:](https://github.com/whitekvazar)
+
+**Code example:**
 
 ```
 /* The main idea is to count all the occurring characters in a string. If you have a
@@ -39,4 +61,7 @@ function count (string) {
 }
 ```
 
-**My English level** is pre-intermediate. And it is intermediate in some cases for example in reading and listening. I’ve been taking private lessons since May 2019 and I watch films and TV series in English.
+### Languages
+
+- Russian - native speaker
+- English (B1) - I’ve been taking private lessons since May 2019.
