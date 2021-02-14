@@ -12,3 +12,18 @@
   align-items: center;
   align-content: center;
 }
+
+figure img {
+  border-radius: 50%;
+}
+
+figcaption {
+  text-align: center;
+}
+
+h1,
+h2 {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
