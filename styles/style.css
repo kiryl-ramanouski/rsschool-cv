@@ -24,7 +24,7 @@ header {
   align-content: center;
 }
 
-.skills-container {
+.row-container {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -33,7 +33,7 @@ header {
   align-content: space-between;
 }
 
-.skills-container h2 {
+.row-container h2 {
   width: 95%;
 }
 
@@ -57,6 +57,13 @@ h2 {
 p {
   text-align: justify;
   width: 95%;
+  font-size: 1.2em;
+}
+
+p.education-links {
+  width: 45%;
+  text-align: center;
+  margin-top: 0px;
 }
 
 h1,
