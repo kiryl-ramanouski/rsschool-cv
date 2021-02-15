@@ -1,7 +1,7 @@
 .wrapper {
   max-width: 950px;
   width: 90%;
-  margin: 0 auto;
+  margin: 50px auto;
   border-radius: 1%;
   box-shadow: 2px 2px 5px 5px rgb(216, 216, 216);
 }
@@ -40,6 +40,7 @@ header {
 figure img {
   border-radius: 50%;
   overflow: hidden;
+  box-shadow: 2px 2px 5px 5px rgb(182, 201, 182);
 }
 
 figcaption {
@@ -66,6 +67,28 @@ p.education-links {
   margin-top: 0px;
 }
 
+p.code-examples-links {
+  width: 95%;
+  text-align: center;
+}
+
+footer {
+  padding-top: 17px;
+  background-color: rgb(196, 218, 196);
+  border-radius: 3%;
+}
+
+footer p {
+  width: 40%;
+  text-align: center;
+  font-size: 85%;
+  margin-top: 0px;
+}
+
+footer img {
+  height: 40px;
+}
+
 h1,
 h2,
 p,
@@ -75,13 +98,14 @@ figcaption {
 }
 
 @media only screen and (max-width: 800px) {
-  body {
-    padding: 0px;
-  }
   .wrapper {
     border-radius: 0px;
     box-shadow: none;
-    margin: 10px;
+    margin: auto;
+  }
+  footer {
+    border-radius: 50%;
+    box-shadow: 5px 5px 5px 5px rgb(211, 198, 198);
   }
 }
 
@@ -98,5 +122,8 @@ figcaption {
   h1,
   h2 {
     font-size: 95%;
+  }
+  footer p {
+    font-size: 75%;
   }
 }
