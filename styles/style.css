@@ -1,7 +1,9 @@
 .wrapper {
-  max-width: 1000px;
+  max-width: 950px;
   width: 90%;
   margin: 0 auto;
+  border-radius: 1%;
+  box-shadow: 2px 2px 5px 5px rgb(216, 216, 216);
 }
 
 header {
@@ -49,9 +51,45 @@ h2 {
   text-align: center;
   margin: 0;
   padding: 0;
+  width: 95%;
 }
 
 p {
   text-align: justify;
   width: 95%;
+}
+
+h1,
+h2,
+p,
+li,
+figcaption {
+  font-family: Source Sans Pro, Helvetica Neue, Arial, sans-serif;
+}
+
+@media only screen and (max-width: 800px) {
+  body {
+    padding: 0px;
+  }
+  .wrapper {
+    border-radius: 0px;
+    box-shadow: none;
+    margin: 10px;
+  }
+}
+
+@media only screen and (max-width: 410px) {
+  img {
+    width: 100%;
+  }
+  p,
+  li,
+  a,
+  figcaption {
+    font-size: 85%;
+  }
+  h1,
+  h2 {
+    font-size: 95%;
+  }
 }
