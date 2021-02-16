@@ -56,6 +56,10 @@ figcaption {
   font-family: Source Sans Pro, Helvetica Neue, Arial, sans-serif;
 }
 
+a {
+  text-decoration: none;
+}
+
           /* header */
 
 header {
