@@ -1,0 +1,149 @@
+    /* 
+      Landing made on flex with media - site'll work even on small phones.
+    */
+
+          /* Whole page*/
+
+.wrapper {
+  max-width: 950px;
+  width: 90%;
+  margin: 50px auto;
+  border-radius: 1%;
+  box-shadow: 2px 2px 5px 5px rgb(216, 216, 216);
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
+
+.row-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+  align-content: space-between;
+}
+
+.row-container h2 {
+  width: 95%;
+}
+
+h1,
+h2 {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  width: 95%;
+}
+
+p {
+  text-align: justify;
+  width: 95%;
+  font-size: 1.2em;
+}
+
+h1,
+h2,
+p,
+li,
+figcaption {
+  font-family: Source Sans Pro, Helvetica Neue, Arial, sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+          /* header */
+
+header {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  align-content: space-between;
+}
+
+figure img {
+  border-radius: 50%;
+  overflow: hidden;
+  box-shadow: 2px 2px 5px 5px rgb(182, 201, 182);
+}
+
+figcaption {
+  text-align: center;
+}
+
+          /* Education section */
+
+p.education-links {
+  width: 45%;
+  text-align: center;
+  margin-top: 0px;
+}
+
+          /* Projects & code examples section */
+
+p.code-examples-links {
+  width: 95%;
+  text-align: center;
+}
+
+          /* footer */
+
+footer {
+  padding-top: 17px;
+  background-color: rgb(196, 218, 196);
+  border-radius: 2%;
+}
+
+footer p {
+  width: 40%;
+  text-align: center;
+  font-size: 85%;
+  margin-top: 0px;
+}
+
+footer img {
+  height: 40px;
+}
+
+        /* media */
+
+@media only screen and (max-width: 800px) {
+  .wrapper {
+    border-radius: 0px;
+    box-shadow: none;
+    margin: auto;
+  }
+  footer {
+    border-radius: 50%;
+    box-shadow: 5px 5px 5px 5px rgb(211, 198, 198);
+  }
+}
+
+@media only screen and (max-width: 410px) {
+  img {
+    width: 100%;
+  }
+  p,
+  li,
+  a,
+  figcaption {
+    font-size: 85%;
+  }
+  h1,
+  h2 {
+    font-size: 95%;
+  }
+  footer p {
+    font-size: 75%;
+  }
+}
