@@ -2,7 +2,7 @@
 
 ### Contact info
 
-**Mobile phone number:** _+375257585175_ **Email:** _whitekvazar@gmail_ **Telegram:** _@sadSaund_ **City** _Minsk_
+**Mobile phone number:** _+375257585175_ **Email:** _whitekvazar@gmail_ **Telegram:** _@sadSound_ **City** _Minsk_
 
 ### Summary
 
@@ -22,7 +22,7 @@ Degree information: Graduate (Master)
 - HTML5, CSS3
 - Figma
 - Git
-- Node.js
+- Node.js basics
 - Java basics
 - C/C++ basics
 
